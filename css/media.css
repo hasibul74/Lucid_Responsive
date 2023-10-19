@@ -1,0 +1,149 @@
+@media(max-width:768px) {
+
+    .navbar-brand img{
+        width: 90px;
+    }
+    .nav-item{
+
+        padding: 10px;
+        padding-left: 0px;
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .nav-link{
+        font-size: 15px;
+        display: inline-block;
+    }
+
+    .phone{
+        display: none;
+   }
+   .phone_item{
+       display: inherit;
+    }
+    .phone_item img{
+        width: 180px;
+        margin: auto;
+     }
+
+    .btn_download {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+    .btn_view{
+
+        padding: 6px 12px;
+        font-size: 13px;
+        margin: 5px;
+    }
+    .banner {
+    
+        text-align: center;
+    }
+}
+
+@media(max-width:575px) {
+    
+    
+
+    .banner {
+    
+        text-align: center;
+    }
+    .banner h1{
+        font-size: 30px;
+    }
+    .banner p{
+        font-size: 14px;
+    }
+
+    .details_section .section_title {
+        text-align: center;
+        margin: 18px;
+    }
+
+    .details_section .section_title span {
+        margin: auto;
+    }
+    .section_title h1 {
+        font-size: 30px;
+    }
+    .details_section p {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    .section_title span {
+        margin-top: 10px;
+    }
+    .like_what {
+        margin-bottom: 20px;
+    }
+    .customize_section {
+        padding: 5px 0;
+    }
+    .customize_section .section_title {
+        margin-top: 25px;
+        text-align: center;
+    }
+    .customize_section .section_title span {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .customize_section .section_title p{
+       margin-bottom: 30px;
+    }
+    .feature {
+        
+        margin-bottom: 25px;
+    }
+    .feature_item {
+        margin-top: 25px;
+        margin-bottom: -25px;
+    }
+    .feature_item h2 {
+        padding-top: 15px;
+        font-size: 24px;
+    }
+    .testimonials {
+        padding: 30px 0;
+    }
+    .icon_box {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+        font-size: 23px;
+    }
+      .pricing_section {
+       padding: 30px 0;
+    }
+    .pricing_section .section_title span {
+        margin-top: 12px;
+        margin-bottom: 5px;
+    }
+    .Pricing_box {
+        padding: 18px 0px;
+    }
+    .Pricing_box h2 {
+        padding-bottom: 18px;
+    }
+    .contact_us {
+        padding: 30px 0;
+        padding-bottom: 400px;
+    }
+    .info {
+        margin-bottom: 20px;
+    }
+    .info i {
+        margin-bottom: 5px;
+    }
+    .contact_form {
+        width: 80%;
+    }
+    .contact_form form input[type='submit'] {
+        width: 100%;
+        padding: 6px;
+    }
+    
+
+}
